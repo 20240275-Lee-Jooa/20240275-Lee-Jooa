@@ -23,6 +23,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCA9xssTpLJNW2TjjPqoCldA)](http://youtube.com/channel/UCA9xssTpLJNW2TjjPqoCldA?si=8goTDOJJOzVtg1OH)
 [![Instagram Badge](https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/badwordgrandmother/profilecard/?igsh=MWllcHd2N2o0MW9xYQ%3D%3D)](https://www.instagram.com/badwordgrandmother/profilecard/?igsh=MWllcHd2N2o0MW9xYQ%3D%3D)
 
-# NOW PLAYING (https://www.youtube.com/watch?v=B1qq8IvzSz4)
+# NOW PLAYING
+![KakaoTalk_20241123_0157560961111111111](https://github.com/user-attachments/assets/0316925a-2c6f-4cdf-bcd7-a870d0958898)(https://www.youtube.com/watch?v=B1qq8IvzSz4)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+ING+...;I+am+developing+...)](https://git.io/typing-svg)
