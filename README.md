@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jooa 👋
 
 <!--
 **20240275-Lee-Jooa/20240275-Lee-Jooa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
